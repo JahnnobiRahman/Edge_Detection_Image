@@ -13,7 +13,7 @@ Generally edges are of three types:
 
 Most of the shape information of an image is enclosed in edges. So first we detect these edges in an image and by using these filters and then by enhancing those areas of image which contains edges, sharpness of the image will increase and image will become clearer.
 
-# Here are some of the masks for edge detection that we will discuss in the upcoming tutorials.
+# Here are some of the masks for edge detection 
 
 * Prewitt Operator
 * Sobel Operator
